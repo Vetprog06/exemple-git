@@ -1,1 +1,1 @@
-# exemple-git
+# exemple-git pour GitHub
